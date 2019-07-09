@@ -10,7 +10,7 @@ namespace UnitTestofConsoleApp
         public void TestMethod1()
         {
             int testMember = 1;
-            Assert.AreEqual(1, testMember);
+            Assert.AreEqual(0, testMember);
         }
 
         [TestMethod]
