@@ -32,7 +32,5 @@ steps:
 - task: VSTest@2
   inputs:
     testSelector: 'testAssemblies'
-    testAssemblyVer2: '**\**Test**.dll
-      !**\*TestAdapter.dll
-      !**\obj\**'
+    testAssemblyVer2: 'd:\a\1\s\UnitTestofConsoleApp\bin\Release\UnitTestofConsoleApp.dll'
     searchFolder: '$(System.DefaultWorkingDirectory)'
