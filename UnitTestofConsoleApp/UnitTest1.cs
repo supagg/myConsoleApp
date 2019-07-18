@@ -17,7 +17,7 @@ namespace UnitTestofConsoleApp
         public void TestMethod2()
         {
             //First   
-            Trigonometric.TrianlgeSidesInput(10, 10, 15);
+            Trigonometric.TrianlgeSidesInput(10, 10, 10);
 
         }
 
