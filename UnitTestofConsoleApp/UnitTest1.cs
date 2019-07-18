@@ -12,7 +12,12 @@ namespace UnitTestofConsoleApp
             int testMember = 1;
             Assert.AreEqual(0, testMember);
         }
-
+        [TestMethod]
+        public void TestMethod5()
+        {
+            int testMember = 0;
+            Assert.AreEqual(0, testMember);
+        }
         [TestMethod]
         public void TestMethod2()
         {
