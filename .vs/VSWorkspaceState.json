@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\myConsoleApp",
+    "\\myConsoleApp\\bin",
+    "\\myConsoleApp\\bin\\Debug",
+    "\\myConsoleApp\\obj",
+    "\\myConsoleApp\\obj\\Debug",
+    "\\myConsoleApp\\obj\\Release"
+  ],
+  "SelectedNode": "\\myConsoleApp\\bin\\Debug\\myConsoleApp.pdb",
+  "PreviewInSolutionExplorer": false
+}
